@@ -10,10 +10,6 @@ char REP;
 
 vmedia = preco =0;
 
-
-
-
-
     do{
         //venda media por mes
      printf(" \n digite a venda media do produto--> ");
