@@ -28,6 +28,11 @@ int main()
             //salario
             printf("digite o salario da criatura: ");
             scanf("%d",&salario);
+            while(salario <1){
+                printf("por favor digite um numero maior que 0 \n");
+                printf("--> ");
+                scanf("%d",&salario);
+            }
             ///total de salario por departamento
             if(departamento == 1){
                 dep1=dep1+salario;
