@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664411331 source:c:\users\gabri\documents\c\guess the word (game)\main.c
+	<stdio.h>
+	<stdlib.h>
+

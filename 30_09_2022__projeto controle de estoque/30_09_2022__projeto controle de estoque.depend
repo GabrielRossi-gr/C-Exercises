@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664567975 source:c:\users\gabri\documents\c\30_09_2022__projeto controle de estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
