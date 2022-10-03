@@ -6,8 +6,10 @@
    
    #summary
    
-   -projects
-   -book exercises
-   -professor: Clerivaldo, Antonio Lacerda(Tony)
+   *projects,
+   
+   *book exercises,
+   
+   *professor: Clerivaldo, Antonio Lacerda(Tony).
    
 🪛 🔧 🔨 ⚒ 🛠 ⛏ 🪚 🔩 ⚙️ 🔭 🔬 ✏️
