@@ -14,4 +14,4 @@
    
    -professor: Clerivaldo, Antonio Lacerda(Tony).
    
-🪛 🔧 🔨 ⚒ 🛠 ⛏ 🪚 🔩 ⚙️ 🔭 🔬 ✏️
+ 🪛 🔧 🔨 ⚒ 🛠 ⛏ 🪚 🔩 ⚙️ 🔭 🔬 ✏️
