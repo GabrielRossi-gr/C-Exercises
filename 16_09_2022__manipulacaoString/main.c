@@ -9,7 +9,7 @@ int main()
 
     for (x=0; x<=quantidade; x++){
         printf("digite um nome: ");
-        fgets(nomes,[x][20]);
+        fgets(nomes[x],[20],stdin);
     }
 
     for(x<0; x<=quantidade; x++){
