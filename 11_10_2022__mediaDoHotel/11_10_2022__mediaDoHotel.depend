@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665530770 source:c:\users\gabri\documents\c-exercises\11_10_2022__mediadohotel\main.c
+	<stdio.h>
+	<stdlib.h>
+
