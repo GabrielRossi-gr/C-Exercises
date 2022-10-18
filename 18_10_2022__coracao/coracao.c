@@ -5,7 +5,7 @@ int main(){
     int numero=0;
     int cont=0;
     int espaco=0;
-    printf("por favor digite um numero.  sugestao=(numeros pares e menores ou iguais a 10)\n\n digite um numero: ");
+    printf("por favor digite um numero.  sugestao=(numeros pares como 6, 8, 10)\n\n digite um numero: ");
     scanf("%d",&numero);
     printf("\n\n\n\n");
     head(numero, cont, espaco);
@@ -64,7 +64,6 @@ int head(numero, cont, espaco){
     }
     printf("        i love you  (^U^)");
 }
-
 
 //funcao body
 int body(numero, cont, espaco){
