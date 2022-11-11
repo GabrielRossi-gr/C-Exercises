@@ -39,9 +39,4 @@ int main (){
         printf("\t\t media: %0.1f",aluno1.media[x]);
     }    
     printf("\n\n");
-
-
-    //media = acumulador/3;
-    //printf("\n nome: %s media: %0.1f",aluno1.nome,media);
-
 }
