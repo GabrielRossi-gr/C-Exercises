@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646693092 source:c:\users\oem\documents\programaçaoemc\lista2c\main.c
+	<stdio.h>
+	<stdlib.h>
+
