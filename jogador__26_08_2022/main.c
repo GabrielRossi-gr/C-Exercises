@@ -8,7 +8,7 @@ njogador=0;
 kkk=i=z=0;
 contidade=0;
 while(z<5){
-z++;
+    z++;
     printf("\n time: %d   ################################################ \n\n",z);
     while(i<5){
         i++;
